@@ -1,0 +1,1 @@
+Created the same file: Feature3-File1.txt in main branch to test merge conflicts
